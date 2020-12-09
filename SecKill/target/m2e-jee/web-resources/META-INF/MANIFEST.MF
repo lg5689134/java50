@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-Title: SecKill
+Implementation-Version: 1.0.0
+Implementation-Vendor-Id: com.imti
+Build-Jdk: 1.7.0_45
+Built-By: lg
+Created-By: Maven Integration for Eclipse
+Implementation-URL: http://projects.spring.io/spring-boot/SecKill/
+
